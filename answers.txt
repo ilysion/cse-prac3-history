@@ -1,0 +1,4 @@
+* 11 commits in total
+* Last commit on March 20, 2018
+* Author is "Stopa"
+* Local configuration data was added with the commit cebfb97
